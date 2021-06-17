@@ -1,10 +1,10 @@
-package com.finastra.mongosample;
+package com.test.mongosample;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.finastra.mongosample.model.User;
-import com.finastra.mongosample.model.QUser;
-import com.finastra.mongosample.repository.UserRepository;
-import com.finastra.mongosample.service.UserService;
+import com.test.mongosample.model.User;
+import com.test.mongosample.model.QUser;
+import com.test.mongosample.repository.UserRepository;
+import com.test.mongosample.service.UserService;
 import com.querydsl.core.types.OrderSpecifier;
 import com.querydsl.core.types.Predicate;
 import com.querydsl.core.types.dsl.BooleanExpression;

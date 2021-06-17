@@ -1,7 +1,7 @@
-package com.finastra.mongosample.controller;
+package com.test.mongosample.controller;
 
-import com.finastra.mongosample.model.User;
-import com.finastra.mongosample.service.UserService;
+import com.test.mongosample.model.User;
+import com.test.mongosample.service.UserService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

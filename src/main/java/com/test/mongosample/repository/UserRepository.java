@@ -1,6 +1,6 @@
-package com.finastra.mongosample.repository;
+package com.test.mongosample.repository;
 
-import com.finastra.mongosample.model.User;
+import com.test.mongosample.model.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.querydsl.QuerydslPredicateExecutor;
 import org.springframework.stereotype.Repository;
